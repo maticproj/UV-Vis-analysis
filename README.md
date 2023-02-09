@@ -21,4 +21,4 @@ The script utilizes the following libraries:
 3. Open Jupyter Notebook 'UV-Vis_analysis.ipynb' 
 4. Update the Input parameters
 5. Run the Jupyter Notebook 'UV-Vis_analysis.ipynb'
-6. The results will be saved to a new Excel file named 'output_YYYYMMDD.xlsx' in the project directory, where YYYYMMDD is the current date.
+6. The results will be saved to a new Excel file named 'output_YYYYMMDD.xlsx' in the project directory.
