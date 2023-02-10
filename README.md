@@ -22,4 +22,5 @@ The script utilizes the following libraries:
 6. The results will be saved to a new Excel file named 'output_YYYYMMDD.xlsx' in the project directory.
 
 ## Citation
+If you use this package as part of a scholarly publication, please consider citing the method paper.
 Manuscript under review.
