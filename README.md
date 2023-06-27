@@ -24,4 +24,6 @@ The script utilizes the following libraries:
 ## Citation
 If you use this script as part of a scholarly publication, please consider citing the method paper.
 
-Manuscript under review.
+Tunable Heteroaromatic Nitriles for Selective Bioorthogonal Click Reaction with Cysteine
+Matic Proj, Nika Strašek, Stane Pajk, Damijan Knez, and Izidor Sosič
+https://doi.org/10.1021/acs.bioconjchem.3c00163
